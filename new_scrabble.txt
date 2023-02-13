@@ -1825,7 +1825,6 @@ daks
 dale
 dals
 dame
-damn
 damp
 dams
 dang
@@ -2327,7 +2326,6 @@ frow
 frug
 fubs
 fuci
-fuck
 fuds
 fuel
 fugs
@@ -4245,7 +4243,6 @@ shew
 shim
 shin
 ship
-shit
 shiv
 shmo
 shod
@@ -5919,7 +5916,6 @@ birth
 bises
 bisks
 bison
-bitch
 biter
 bites
 bitsy
@@ -6029,8 +6025,6 @@ bolus
 bombe
 bombs
 bonds
-boned
-boner
 bones
 boney
 bongo
@@ -6977,7 +6971,6 @@ dally
 daman
 damar
 dames
-damns
 damps
 dance
 dandy
@@ -8021,7 +8014,6 @@ frump
 fryer
 fubar
 fubsy
-fucks
 fucus
 fuddy
 fudge
@@ -11999,7 +11991,6 @@ shirk
 shirr
 shirt
 shist
-shits
 shiva
 shive
 shivs
@@ -15175,7 +15166,6 @@ becket
 beckon
 beclog
 become
-bedamn
 bedaub
 bedbug
 bedded
@@ -15441,7 +15431,6 @@ bisque
 bister
 bistre
 bistro
-bitchy
 biters
 biting
 bitmap
@@ -15596,7 +15585,6 @@ bonbon
 bonded
 bonder
 bonduc
-boners
 bonged
 bongos
 bonier
@@ -17430,9 +17418,6 @@ damask
 dammar
 dammed
 dammer
-dammit
-damned
-damner
 damped
 dampen
 damper
@@ -19324,9 +19309,6 @@ fryers
 frying
 frypan
 fubbed
-fucked
-fucker
-fuckup
 fucoid
 fucose
 fucous
@@ -26391,7 +26373,6 @@ shirrs
 shirts
 shirty
 shists
-shitty
 shivah
 shivas
 shiver
@@ -31403,7 +31384,6 @@ bassets
 bassett
 bassist
 bassoon
-bastard
 basters
 bastile
 basting
@@ -31516,7 +31496,6 @@ becrowd
 becrust
 becurse
 becurst
-bedamns
 bedaubs
 bedbugs
 bedders
@@ -31939,9 +31918,6 @@ bistred
 bistres
 bistros
 bitable
-bitched
-bitchen
-bitches
 bitmaps
 bitsier
 bittern
@@ -35016,9 +34992,6 @@ damiana
 dammars
 dammers
 damming
-damners
-damnify
-damning
 damosel
 damozel
 dampens
@@ -35162,7 +35135,6 @@ debeaks
 debeard
 debited
 deboned
-deboner
 debones
 debouch
 debride
@@ -35690,7 +35662,6 @@ dipoles
 dippers
 dippier
 dipping
-dipshit
 diptera
 diptyca
 diptych
@@ -38019,10 +37990,6 @@ fubbing
 fubsier
 fuchsia
 fuchsin
-fuckers
-fucking
-fuckoff
-fuckups
 fucoids
 fucoses
 fucuses
@@ -38677,7 +38644,6 @@ gobioid
 goblets
 goblins
 gobonee
-goddamn
 goddams
 goddess
 godding
@@ -48766,9 +48732,6 @@ shirked
 shirker
 shirred
 shitake
-shittah
-shitted
-shittim
 shivahs
 shivers
 shivery
@@ -55903,8 +55866,6 @@ bassists
 bassness
 bassoons
 basswood
-bastards
-bastardy
 bastiles
 bastille
 bastings
@@ -56020,7 +55981,6 @@ becudgel
 becursed
 becurses
 bedabble
-bedamned
 bedarken
 bedaubed
 bedazzle
@@ -56528,10 +56488,6 @@ bistered
 bistorts
 bistoury
 bistroic
-bitchery
-bitchier
-bitchily
-bitching
 biteable
 bitewing
 bitingly
@@ -57377,7 +57333,6 @@ bullpout
 bullring
 bullrush
 bullshat
-bullshit
 bullshot
 bullweed
 bullwhip
@@ -60320,10 +60275,6 @@ damaging
 damasked
 damewort
 damianas
-damnable
-damnably
-damndest
-damneder
 damosels
 damozels
 dampened
@@ -60456,7 +60407,6 @@ debeards
 debility
 debiting
 debonair
-deboners
 deboning
 debouche
 debrided
@@ -61191,7 +61141,6 @@ dippable
 dippiest
 diprotic
 dipsades
-dipshits
 dipstick
 dipteral
 dipteran
@@ -64323,7 +64272,6 @@ fubsiest
 fuchsias
 fuchsine
 fuchsins
-fuckoffs
 fucoidal
 fuddling
 fuehrers
@@ -64985,9 +64933,7 @@ goatskin
 gobblers
 gobbling
 gobioids
-gobshite
 godchild
-goddamns
 godetias
 godheads
 godhoods
@@ -67334,7 +67280,6 @@ jaunting
 javelina
 javelins
 jawboned
-jawboner
 jawbones
 jawlines
 jaybirds
@@ -71293,7 +71238,6 @@ outbakes
 outbarks
 outbawls
 outbeams
-outbitch
 outblaze
 outbleat
 outbless
@@ -77207,15 +77151,6 @@ shirking
 shirring
 shirtier
 shirting
-shitakes
-shithead
-shitless
-shitlist
-shitload
-shittahs
-shittier
-shittims
-shitting
 shivaree
 shivered
 shiverer
@@ -85851,7 +85786,6 @@ basseting
 bassetted
 bassinets
 basswoods
-bastardly
 bastilles
 bastinade
 bastinado
@@ -85950,7 +85884,6 @@ becudgels
 becursing
 bedabbled
 bedabbles
-bedamning
 bedarkens
 bedaubing
 bedazzled
@@ -86420,7 +86353,6 @@ bisulcate
 bisulfate
 bisulfide
 bisulfite
-bitchiest
 biteplate
 bitewings
 bitmapped
@@ -87125,7 +87057,6 @@ bullnecks
 bullnoses
 bullpouts
 bullrings
-bullshits
 bullshots
 bullsnake
 bullweeds
@@ -89999,13 +89930,6 @@ damascene
 damaskeen
 damasking
 dameworts
-damnation
-damnatory
-damndests
-damnedest
-damnified
-damnifies
-damningly
 dampeners
 dampening
 damselfly
@@ -94638,9 +94562,6 @@ goalposts
 goatherds
 goatishly
 goatskins
-gobshites
-goddammed
-goddamned
 goddesses
 godfather
 godlessly
@@ -95795,7 +95716,6 @@ horselike
 horsemint
 horseplay
 horserace
-horseshit
 horseshod
 horseshoe
 horsetail
@@ -97059,7 +96979,6 @@ jaundices
 jauntiest
 javelinas
 javelined
-jawboners
 jawboning
 jayhawker
 jaywalked
@@ -106942,11 +106861,6 @@ shirtiest
 shirtings
 shirtless
 shirttail
-shitfaced
-shitheads
-shitlists
-shitloads
-shittiest
 shivareed
 shivarees
 shiverers
@@ -114457,9 +114371,6 @@ basophilic
 bassetting
 bassnesses
 bassoonist
-bastardies
-bastardise
-bastardize
 bastinaded
 bastinades
 batfowlers
@@ -114815,8 +114726,6 @@ bisulfates
 bisulfides
 bisulfites
 bitartrate
-bitcheries
-bitchiness
 biteplates
 bitstreams
 bitterness
@@ -117551,9 +117460,6 @@ damagingly
 damascened
 damascenes
 damaskeens
-damnations
-damnedests
-damnifying
 dampnesses
 damselfish
 dandelions
@@ -121074,8 +120980,6 @@ goalmouths
 goaltender
 goatfishes
 goatsucker
-goddamming
-goddamning
 godfathers
 godmothers
 godparents
@@ -121926,7 +121830,6 @@ horseplays
 horsepower
 horsepoxes
 horseraces
-horseshits
 horseshoed
 horseshoer
 horseshoes
@@ -124767,7 +124670,6 @@ mishandled
 mishandles
 mishanters
 mishearing
-mishitting
 mishmashes
 mishmoshes
 misinforms
@@ -126164,8 +126066,6 @@ outbeaming
 outbegging
 outbidders
 outbidding
-outbitched
-outbitches
 outblazing
 outbleated
 outblessed
@@ -132325,8 +132225,6 @@ superagent
 superalloy
 superatoms
 superbanks
-superbitch
-superblock
 superbness
 superboard
 superbombs
@@ -136344,10 +136242,6 @@ basketballs
 basketworks
 basophilias
 bassoonists
-bastardised
-bastardises
-bastardized
-bastardizes
 bastinading
 bastinadoed
 bastinadoes
@@ -136872,7 +136766,6 @@ bullfighter
 bullfinches
 bullishness
 bullmastiff
-bullshitted
 bullterrier
 bullwhipped
 bullyragged
@@ -137366,7 +137259,6 @@ chessboards
 chewinesses
 chiaroscuro
 chicaneries
-chickenshit
 chieftaincy
 chiffchaffs
 chiffonades
@@ -141072,7 +140964,6 @@ goaltenders
 goaltending
 goatsuckers
 godchildren
-goddamndest
 goddaughter
 godfathered
 godforsaken
@@ -144881,7 +144772,6 @@ outachieves
 outbalanced
 outbalances
 outbargains
-outbitching
 outbleating
 outblessing
 outblooming
@@ -148404,7 +148294,6 @@ shirtmakers
 shirtsleeve
 shirttailed
 shirtwaists
-shittimwood
 shivareeing
 shmaltziest
 shoehorning
@@ -152114,8 +152003,6 @@ basementless
 baserunnings
 basidiospore
 basification
-bastardising
-bastardizing
 bastinadoing
 bathetically
 bathymetries
@@ -152253,7 +152140,6 @@ biquadratics
 biracialisms
 birdwatching
 birefringent
-bitchinesses
 bitternesses
 bittersweets
 bituminizing
@@ -152416,7 +152302,6 @@ bullfighters
 bullfighting
 bullheadedly
 bullmastiffs
-bullshitting
 bullterriers
 bullwhipping
 bullyragging
@@ -152684,7 +152569,6 @@ cherrystones
 cherubically
 chesterfield
 chiaroscuros
-chickenshits
 childbearing
 childishness
 chillinesses
@@ -153648,7 +153532,6 @@ cytotoxicity
 czarevitches
 daintinesses
 damaskeening
-damnableness
 damselfishes
 dappernesses
 daredeviltry
@@ -155441,7 +155324,6 @@ gnatcatchers
 goaltendings
 gobbledegook
 gobbledygook
-goddamnedest
 goddaughters
 godfathering
 godmothering
@@ -157586,7 +157468,6 @@ morphologist
 morphometric
 mortarboards
 motherboards
-motherfucker
 motherhouses
 motherliness
 mothproofers
@@ -160672,7 +160553,6 @@ shirtdresses
 shirtsleeved
 shirtsleeves
 shirttailing
-shittimwoods
 shoddinesses
 shortchanged
 shortchanger
@@ -161297,7 +161177,6 @@ superabounds
 superalterns
 superannuate
 superathlete
-superbitches
 superbnesses
 superbombers
 supercabinet
@@ -166914,8 +166793,6 @@ morphological
 morphologists
 morphometries
 mortification
-motherfuckers
-motherfucking
 motorboatings
 motorcyclists
 motorizations
@@ -170812,7 +170689,6 @@ bamboozlements
 barbarizations
 barometrically
 basidiomycetes
-bastardization
 beatifications
 beautification
 beggarlinesses
@@ -171444,7 +171320,6 @@ cytotechnology
 cytotoxicities
 daguerreotyped
 daguerreotypes
-damnablenesses
 dandifications
 daredeviltries
 debonairnesses
@@ -175746,7 +175621,6 @@ bacteriophagies
 barbarousnesses
 barefacednesses
 basidiomycetous
-bastardizations
 bathymetrically
 beauteousnesses
 beautifications
